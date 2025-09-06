@@ -1,5 +1,4 @@
-# Welcome to your Lovable project
-
+# EcoFinds – Empowering Sustainable Consumption through a Second-Hand Marketplace
 ## Project info
 
 **URL**: https://lovable.dev/projects/0c66cb7c-6ecb-4b63-b53e-2eab2f47bf82
